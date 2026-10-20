@@ -1,27 +1,103 @@
-<h1 align="center">Hi 👋, I'm Ahmed Kiser</h1>
-<h3 align="center">A highly motivated and passionate developer and researcher from Bangladesh</h3>
+# Ahmed Kiser
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedkiser&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedkiser" /> </p>
+**AI & Machine Learning Researcher · Lab Instructor · Research Assistant**  
+North South University · Dhaka, Bangladesh
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedkiser" alt="ahmedkiser" /></a> </p>
+[Portfolio](https://ahmed-kiser.vercel.app) · [Google Scholar](https://scholar.google.com/citations?user=3mZbjzEAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Ahmed-Kiser) · [LinkedIn](https://www.linkedin.com/in/ahmed-11-kiser/) · [Email](mailto:ahmed.kiser@northsouth.edu)
 
-- 🌱 I’m currently learning **Flutter, React JS**
+## About me
 
-- 💬 Ask me about **Django**
+I work on artificial intelligence and machine learning for biomedical signals, computer vision, and multimodal data. My research combines data acquisition, signal preprocessing, feature engineering, statistical analysis, and deep learning to develop practical and interpretable systems.
 
-- 📫 How to reach me **ahmed.kiser@northsouth.edu**
+I am a Research Assistant in the Department of Mathematics and Physics and a Lab Instructor in the Department of Electrical and Computer Engineering at **North South University**. My work spans biomedical research, agricultural image analysis, and embedded systems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmed-11-kiser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-11-kiser" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed.kaiser.ak11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.kaiser.ak11" height="30" width="40" /></a>
-</p>
+## Research interests
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- **Biomedical AI:** PPG analysis, Doppler ultrasound, physiological signal processing, and machine learning for healthcare.
+- **Computer vision:** CNNs, Vision Transformers, medical image analysis, and plant disease detection.
+- **Multimodal learning:** Combining information from different sensors and imaging modalities.
+- **Efficient and interpretable AI:** Explainable AI, knowledge distillation, lightweight models, and edge intelligence.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedkiser&show_icons=true&locale=en&layout=compact" alt="ahmedkiser" /></p>
+## Selected research
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedkiser&show_icons=true&locale=en" alt="ahmedkiser" /></p>
+| Area | Focus |
+| --- | --- |
+| PEMF and hemodynamics | Data acquisition, preprocessing, feature extraction, and statistical analysis for research on pulsed electromagnetic fields and peripheral blood flow. |
+| Agricultural AI | Vision Transformers and explainable AI for tea leaf disease detection; IoT-based crop-type and disease prediction. |
+| Neuromuscular signal modeling | Co-authored research on estimating conduction velocity distributions and motor unit action potentials from compound muscle action potentials. |
+| Efficient medical vision | DistilIVision: multi-teacher knowledge distillation for lightweight Vision Transformers in diabetic foot ulcer analysis; manuscript in preparation. |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkiser&" alt="ahmedkiser" /></p>
+[Explore my repositories →](https://github.com/AhmedKiser?tab=repositories)
+
+## Selected publications
+
+1. **Prediction of conduction velocity distribution and motor unit action potential from evoked compound muscle action potential: a novel metaheuristic-based framework.**  
+   Z. S. Siam et al., including **Ahmed Kiser**. *Biomedical Physics & Engineering Express*, 12(4), 2026.  
+   [DOI](https://doi.org/10.1088/2057-1976/ae8af8) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/42456723/)
+
+2. **Advanced Vision Transformer Approach for Multiclass Tea Leaf Disease Detection with Explainable AI Technique.**  
+   **A. Kiser**, F. Naznin, and M. T. Rahman. *28th International Conference on Computer and Information Technology (ICCIT)*, 2025.  
+   [DOI](https://doi.org/10.1109/ICCIT68739.2025.11491418)
+
+3. **Intelligent IoT-based Combined Crop-type and Disease Prediction System with Different Machine Learning & Deep Learning Techniques.**  
+   M. I. Arefin Hossain, **A. Kiser**, I. J. Mitu, and S. M. Binta Haque. *10th International Conference on Electrical Engineering, Computer Science and Informatics (EECSI)*, 2023.  
+   [IEEE Xplore](https://ieeexplore.ieee.org/document/10295872/)
+
+<details>
+<summary><strong>Manuscripts and work in progress</strong></summary>
+
+### Submitted or under review
+
+- **Influence of Pulsed Electromagnetic Field (PEMF) on Arterial Blood Flow: A Comparative Multimodal Study Using Doppler Ultrasound and PPG Signals.** Submitted to *Physiological Measurement*.
+- **Influence of Pulsed Electromagnetic Field (PEMF) on Peripheral Blood Flow: A Comparative Study Using Doppler Ultrasound and PPG Signals.** Co-author; submitted / under review.
+
+### In preparation
+
+- **DistilIVision: Multi-Teacher Knowledge Distillation of Lightweight Vision Transformers with Novel Image Processing Techniques and Explainable AI for Deployable Diabetic Foot Ulcer Analysis.**
+- **Time-Dependent Modulation of Peripheral Hemodynamics under Pulsed Electromagnetic Field Exposure: A Combined Thermal and Photoplethysmographic Analysis.**
+
+</details>
+
+## Academic experience
+
+| Role | Department at North South University | Period |
+| --- | --- | --- |
+| Lab Instructor | Electrical and Computer Engineering | February 2025 – Present |
+| Research Assistant | Mathematics and Physics | March 2024 – Present |
+| Teaching Assistant | Mathematics and Physics | March 2022 – January 2023 |
+
+My teaching covers programming, object-oriented programming, database systems, computer organization and architecture, and microcontrollers and embedded systems. I provide technical instruction and hands-on guidance to **500+ students** across laboratory sections. Previously, I supported Linear Algebra and Engineering Mathematics courses for **400+ students**.
+
+## Technical skills
+
+| Category | Languages, methods, and tools |
+| --- | --- |
+| Programming | Python, C++, C, Java, SQL |
+| AI and computer vision | PyTorch, TensorFlow, scikit-learn, OpenCV, CNNs, Vision Transformers |
+| Data and signals | Signal processing, feature engineering, exploratory data analysis, parametric and non-parametric statistics |
+| Backend development | Django, FastAPI |
+| Embedded platforms | NVIDIA Jetson, Raspberry Pi, STM32, Arduino |
+| Research and development tools | Git, GitHub, Matplotlib, Power BI, LaTeX |
+
+## Education
+
+**BSc in Computer Science and Engineering — Artificial Intelligence Track**  
+North South University, 2020–2024  
+**CGPA: 3.76 / 4.00 · Magna Cum Laude**
+
+## Leadership and recognition
+
+- **Vice Chair, NSU ACM Student Chapter** — January 2024–March 2025.
+- Organized a **five-day Data Science course led by Prof. Jennifer Widom of Stanford University**, attended by 300+ students.
+- Helped organize **HackNSU Season 5**, featuring 20 teams from 20 universities.
+- **Best Poster Presentation** — Networking Event Mini Symposium, 2025.
+- **Merit-Based Scholarship** — North South University, 2022.
+
+## Connect
+
+I am interested in research collaborations and fully funded MSc or PhD opportunities in AI, computer vision, biomedical signal processing, and related fields.
+
+**Academic email:** [ahmed.kiser@northsouth.edu](mailto:ahmed.kiser@northsouth.edu)  
+**Personal email:** [ahmedkiserak@gmail.com](mailto:ahmedkiserak@gmail.com)
+
+Find more about my work on my [portfolio](https://ahmed-kiser.vercel.app), [Google Scholar](https://scholar.google.com/citations?user=3mZbjzEAAAAJ&hl=en), and [ResearchGate](https://www.researchgate.net/profile/Ahmed-Kiser).
